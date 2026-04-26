@@ -21,7 +21,7 @@ Master’s student in Computer Engineering on a mission to build, automate, and 
 
 **Cloud · Containers · AI · CI/CD · Observability · Languages · Databases · Frameworks**
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,kubernetes,docker,linux,bash,git,githubactions,python,java,javascript,nodejs,react,php,flask,symfony,mysql,postgres,mongodb,opencv&perline=8" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,firebase,kubernetes,docker,linux,bash,git,githubactions,python,java,javascript,nodejs,react,php,flask,symfony,mysql,postgres,mongodb,opencv&perline=8" alt="Tech Stack"/>
 
 </div>
 
